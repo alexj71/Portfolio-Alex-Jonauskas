@@ -9,12 +9,15 @@ My advisor offered to work with me over the course of a semester to work on a pr
 1. NFLDivisionMatchups:
 
  In this model I give each division a value for total expected wins and then minimize the difference across all divisional matchups. Each division still plays one division from the NFC and one from the AFC.
+ 
 2. NFLExtra3Matchups:
 
  My nfl schedule will still have the 6 games from intradivisional matchups plus the 8 from playing another AFC and NFC division. That leaves 3 extra games to reach a full 17. In this model I schedule these by minimizing the difference in expected wins across all matchups
+ 
 3. NFLAllMatchups:
 
  Combines the previous 2 models to generate the full NFL schedule.
+ 
 4. NFLWeeklyMatchups:
 
  Minimizes the total difference in expected wins in each week therefore spreading the close matchups out as evenly as possible
@@ -23,6 +26,7 @@ My advisor offered to work with me over the course of a semester to work on a pr
 - NFLScheduling:
 
  Final Report. Open for a more detailed description of the project as well as thoughts on future improvements
+ 
 - Two Excel Docs:
 
  Two unimportant docs that were used to store or organize data for the final report or the models.
