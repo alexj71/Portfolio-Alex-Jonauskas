@@ -8,4 +8,6 @@
 
 - R Scripts for Data Science: Contains scripts that were homework or a project in a statistical computing course. Everything is in R and includes the use of linear/logistic/multi-linear regressions, monte carlo method/simulations, and the acceptance/rejection method.
 
+- Tableau Practice: Contains links to a tableau dashboard for an imaginary stocks portfolio that I created as a means to start learning Tableau. The README in the folder has everything you need to view the dashboard and google sheets files that are associated with it.
+
 Note: There are more specific README descriptions in each folder.
